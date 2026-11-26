@@ -1,0 +1,1 @@
+Live Server orqali oching. Kodlar sahifasida faqat mavjud portfolio manba fayllari ko‘rsatiladi. Boshqa loyihalar kodi taqdim etilmagan.
